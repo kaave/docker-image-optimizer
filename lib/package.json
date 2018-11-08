@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "devDependencies": {
+    "dotenv": "^6.1.0",
+    "imagemin": "^6.0.0",
+    "imagemin-gifsicle": "^6.0.1",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^6.0.0",
+    "imagemin-webp": "^4.1.0"
+  }
+}
